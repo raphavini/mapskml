@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{"system:/java/web/gae1914":{"ram":512,"variables":{},"options":{}}},"default":"system:/java/web/gae1914"},"description":"","type":"GAEJava","attributes":{"languageVersion":["1.6"],"language":["java"]}}
